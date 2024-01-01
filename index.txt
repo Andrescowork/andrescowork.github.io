@@ -23,7 +23,7 @@ Sacramento, California, USA
 # navbar
 
 About
-Resume
+hola
 Portfolio
 Blog
 Contact
